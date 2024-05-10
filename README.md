@@ -4,7 +4,7 @@
 
 2.install flask (pip install flask).
 
-3.install sqlachemy(pip instll SQLAlchemy).
+3.install sqlachemy(pip install SQLAlchemy).
 
 4.run the flask program using flask run or python app_name.py.
 
